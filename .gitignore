@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+tf_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / temp
+*.log
